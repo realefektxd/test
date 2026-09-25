@@ -1,1 +1,1 @@
-print("lua poprawnie dziala nigas ✅✅✨😈👀🐱‍👤🎶👑🔧")
+print("ye, lua from link is injected!")
