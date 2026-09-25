@@ -1,1 +1,1 @@
-print("ye, lua from link is injected!")
+print("X - YEA THATS WORK - X")
